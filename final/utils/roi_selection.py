@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 
 # Path to the video
-video_path = "video.mp4"
+video_path = "bottom_view.mp4"
 
 # Open the video
 cap = cv2.VideoCapture(video_path)
